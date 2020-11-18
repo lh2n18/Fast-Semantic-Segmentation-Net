@@ -12,3 +12,7 @@ Depth-Separatable Conv
 Up Sample(DeConv) & Feature Fusion
 
 BottleNeck
+
+<p align='center'>
+<img src='FSSN.jpg' title='Network' style='max-width:1024px'></img>
+</p>
