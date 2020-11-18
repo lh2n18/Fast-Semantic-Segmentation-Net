@@ -12,5 +12,3 @@ Depth-Separatable Conv
 Up Sample(DeConv) & Feature Fusion
 
 BottleNeck
-
-
